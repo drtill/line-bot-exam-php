@@ -52,7 +52,7 @@ if (strpos($message, 'สอนเป็ด') !== false) {
      $message_to_reply = $rec->answer;
    }
   }else{
-    $message_to_reply = 'ก๊าบบ คุณสามารถสอนให้ฉลาดได้เพียงพิมพ์: สอนเป็ด[คำถาม|คำตอบ]';
+    $message_to_reply = 'ก๊าบบ คุณสามารถสอนให้ฉลาดได้เพียงพิมพ์: สอนเป็ด[คำถาม|คำตอบ]'.$sender;
   }
 }
 //API Url
