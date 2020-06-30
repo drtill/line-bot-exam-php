@@ -1,5 +1,5 @@
 <?php
-$access_token = "EAAHFa31FjC4BAO5Up5XsqEwxaYtZAxNJMZBYk1tjgCuc3kSkxKZCZCaMZC1XTffZCmuVSDOySDtZALq1nSJosC4oTMSO4Otmvf7vkFLSBsLl71P3YGOKgzK6UQenfSG9VU3mZCKcH2gx02PtS8mH19jmpduvdDTIFSkQONR2IChr0OC3hiy2Lymj";
+$access_token = "EAAHFa31FjC4BAIKeZADmBpQA6PlmSQBRlBOJ9Mdym07ETOHO1QuiOLsuOi7sZC09TZB3I2VY8AkQL11LeO2ClC5cjzK2np43bdu3e0774RyXCeYNIKqlAaMLbcyZAGxpVkRBXPe2WL5mQLc0pV7J76S7BrmBudbpSEyZBkxjjXhiHW2cGzz0Y";
 $verify_token = "coffee_test";
 $hub_verify_token = null;
 if(isset($_REQUEST['hub_challenge'])) {
